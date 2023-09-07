@@ -1,0 +1,16 @@
+Installing Pico_W 
+----------------------------------------------
+1.install python 
+2.download and install Thonny 
+3.Press and hold the Bootselect Button while connecting to PC
+4.Copy the bootloader file into RPI drive. After finished copy
+it will automatically close.
+5.Re-Insert the Pico W [This time not press the Button]
+6.Open Thonny Editor.
+7.From Tool Bar Run-> Configure Interpreter -> Select Micropython(Raspberry Pi Pico) -> Select Port -> OK
+8.From Left side file browser open & select the example File
+9.Right Click -> upload to / 
+10.After Uploading Open the file from Bottom File manager.
+11.To Run the file Click run Button & Click stop button to stop
+
+Thats it
